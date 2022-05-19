@@ -2,6 +2,8 @@
 This repository is used to record my solutions to _machine learning_ exercises
 ## About the book _machine learning_
 This book, written by Professor Zhou Zhihua, is intended as a textbook for undergraduate or graduate students who want to learn machine learning.
+
+![book cover](MachineLearningBookCover.png)
 ## Task list
 - [ ] Chapter1 Introduction
 - [ ] Chapter2 Model evaluation and selection
