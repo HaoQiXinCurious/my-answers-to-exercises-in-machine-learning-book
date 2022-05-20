@@ -6,7 +6,10 @@ This book, written by Professor Zhou Zhihua, is intended as a textbook for under
 ![book cover](MachineLearningBookCover.png)
 [This book's Douban page](https://book.douban.com/subject/26708119/)
 ## Task list
-- [ ] Chapter1 Introduction
+- [x] Chapter1 Introduction
+- [directory of chapter1](solutions/chapter1)
+- [Explain video page in Bilibili](https://www.bilibili.com/video/BV1rZ4y1B74z?spm_id_from=333.999.0.0)
+- [reference page in CSDN](https://blog.csdn.net/dicker6315/article/details/81265066)
 - [ ] Chapter2 Model evaluation and selection
 - [ ] Chapter3 Linear model
 - [ ] Chapter4 Decision tree
